@@ -1,0 +1,12 @@
+Open Command Prompt in administrative mode.
+Run the following command:
+
+net user administrator /active:yes
+
+Press Enter. The command should run successfully and the administrator account should be enabled.
+
+
+
+To disable the administrator user, run the following command:
+
+net user administrator /active:no

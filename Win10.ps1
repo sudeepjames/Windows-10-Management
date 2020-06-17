@@ -116,6 +116,16 @@ If ($Error) {$Error.Clear()}
 
 #-----------------------------------------
 
+#Backup Drivers
+
+#Create a Directory named SudeepJames in C:
+mkdir C:\@SudeepJames
+
+Get-WindowsDriver -Online -All
+
+Get-WindowsDriver -Online -All |  Out-File -FilePath C:\@SudeepJames\Installed_Drivers.txt
+
+Export-WindowsDriver -Online -Destination "C:\@SudeepJames\DriverBackups"
 
 
 

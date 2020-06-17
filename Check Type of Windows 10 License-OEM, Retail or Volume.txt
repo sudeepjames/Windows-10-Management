@@ -1,0 +1,15 @@
+There are three different categories of licenses available for Windows 10.
+
+Retail – This is the license which can be purchased from stores or online from Microsoft Store. If you buy it offline, you might get a boxed copy with the license of Windows 10. The most important thing about this version of Windows 10 License is that you can transfer the Windows 10 Retail copy to another PC. So in case you are shifting from one PC to another, you can easily transfer it.
+
+OEM – If your PC comes with pre-installed Windows 10 when you buy it, then it is an OEM license is embedded in the UEFI/BIOS firmware. These types of Licenses cannot be sold and also it is not transferable to another PC.
+
+Volume – It’s used by large businesses, government and educational institutions. In such cases you will get a discount on purchase and the license will be in the name of the company and they can activate multiple PCs using this license.
+
+In order to Check Type of Windows 10 License, you need to open the run command.
+
+1. Press Win+ R key and open the run command, type cmd in the run command.
+
+2. In the run command, type slmgr -dli and press enter.
+
+3. This will bring a small pop up window which shows your Windows 10 license type.

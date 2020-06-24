@@ -4,7 +4,6 @@
 
 
 
-Easy and Powerful tips and tricks for Managing Windows 10
 
 
 ✅ Always run PowerShell or CommandPrompt or Batch Files in Adminsistrative Mode

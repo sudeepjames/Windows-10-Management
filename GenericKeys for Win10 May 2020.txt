@@ -1,4 +1,4 @@
-To install Windows 10 version 2004 with a generic key, use the following keys: 
+⤷ To install Windows 10 version 2004 with a generic key, use the following keys: 
 
 
 Windows 10 Home YTMG3-N6DKC-DKB77-7M9GH-8HVX7
@@ -37,7 +37,7 @@ Windows 10 Enterprise N LTSB 2016 RW7WN-FMT44-KRGBK-G44WK-QV7YK
 
 
 
-Additionally, here are generic KMS client setup keys. You can use them if you have a KMS host on your network.
+⤷ Additionally, here are generic KMS client setup keys. You can use them if you have a KMS host on your network.
 
 Generic KMS Client Setup Keys for Windows 10 version 2004 May 2020 Update
 
@@ -94,7 +94,7 @@ Windows Server 2019 Essentials WVDHN-86M7X-466P6-VHXV7-YY726
 
 
 
-Finally, there are a number of Windows 10 default product keys that can be used with and without OEM 3.0 activation (for manufactures).
+⤷ Finally, there are a number of Windows 10 default product keys that can be used with and without OEM 3.0 activation (for manufactures).
 
 Generic OEM Keys to be used with OEM 3.0 activation
 
@@ -125,6 +125,8 @@ Windows 10 SL GH37Y-TNG7X-PP2TK-CMRMT-D3WV4
 
 Windows 10 CHN SL 68WP7-N2JMW-B676K-WR24Q-9D7YC
 
-Remember, these keys can only install Windows for evaluation or testing for a short time. 
-It’s not possible to activate it unless you enter a genuine key purchased from Microsoft. 
-Once you decide to activate your installed OS, you will need to change the generic product key to the actual key you purchased.
+
+
+⤷ Remember, these keys can only install Windows for evaluation or testing for a short time. 
+⤷ It’s not possible to activate it unless you enter a genuine key purchased from Microsoft. 
+⤷ Once you decide to activate your installed OS, you will need to change the generic product key to the actual key you purchased.
